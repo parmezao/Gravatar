@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <!-- <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable> -->
+
+    <PackageId>Parmex.Gravatar</PackageId>  
+    <Version>1.0.0</Version>
+    <icon>https://gravatar.com/avatar/203b1d2b1069f155a607905c97f1bb58</icon>
+    <License>MIT</License>
+    <Authors>Wagner Parmezão</Authors>    
+    <Company>parmex.com.br</Company>
+    <PackageDescription>Extensions for Gravatar</PackageDescription>
+    <Description>Extensions for Gravatar</Description>
+    <RepositoryUrl>https://github.com/parmezao/Gravatar</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/parmezao/Gravatar</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <!-- <PackageIcon></PackageIcon> -->
+    <PackageTags>Gravatar</PackageTags>
+    <!-- <ReleaseNotes></ReleaseNotes> -->
+    <Title>Gravatar Extensions</Title>
+    <Summary>Extensions for Gravatar</Summary>
+
+  </PropertyGroup>
+
+  
+
+</Project>
